@@ -8,4 +8,20 @@ Versión modificada de KMZ Multi Loader Tool - Base version - por [KM Zoilus](ht
 Vídeo del `Homebrew`
 
 [![Watch the video](https://i.ytimg.com/vi/1GzZSZT6V8o/hqdefault.jpg)](https://www.youtube.com/watch?v=1GzZSZT6V8o)
+
+<details>
+  <summary>◢ Que Incluye ◣ </summary>
+  
+  ## ★Versión 1.0
+  * Coldboots
+  * Funtes
+  * Game Boots
+  * HFW Settings `HEN v3.0.0` Traducidas Al Españor Por OG Modding
+  * PSN Balls
+  * Temas Para webMAN
+  * Waves
+  * XMB Colors
+
+</details>
+
 ### Si haces uso de este repositorio para hacer tú propia versión, recuerda dar créditos y de enlazar con la versión original.
