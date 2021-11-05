@@ -1,4 +1,4 @@
-# XMB-Customizer
+# XMB Customizer
 
 Aplicación para personalizar una el menú de una PS3 liberada, esto es la base con algunos ejemplos para HEN, no esta todo lo que contiene el PKG, si quieres extraelo usa cualquier herramienta.
 
