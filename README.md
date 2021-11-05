@@ -24,4 +24,4 @@ Vídeo del `Homebrew`
 
 </details>
 
-### Si haces uso de este repositorio para hacer tú propia versión, recuerda dar créditos y de enlazar con la versión original.
+### Si haces uso de este repositorio para hacer tú propia versión, recuerda dar créditos y enlazar a la versión original.
