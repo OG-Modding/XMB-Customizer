@@ -26,6 +26,6 @@ Vídeo del `Homebrew`
 
 ## Imágenes
 
-![Menú](https://imgur.com/sdjGvzj)
+![Menú](https://i.imgur.com/sdjGvzj.png)
 
 ### Si haces uso de este repositorio para hacer tú propia versión, recuerda dar créditos y enlazar a la versión original.
